@@ -6,20 +6,20 @@
 
 | Total Problems | Topics |
 |---|---|
-| 20 | 8 |
+| 21 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [brute force](#brute-force) (4)
+- [brute force](#brute-force) (5)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (11)
+- [implementation](#implementation) (12)
 - [math](#math) (8)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
-- [strings](#strings) (5)
+- [strings](#strings) (6)
 
 ---
 
@@ -36,6 +36,7 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/479/A%20-%20Expression/solution.cpp) |
+| 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 | 1968A | [Maximize?](https://codeforces.com/contest/1968/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1968/A%20-%20Maximize%3F/solution.cpp) |
 
 ### greedy
@@ -58,6 +59,7 @@
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.cpp) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
+| 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1742/A%20-%20Sum/solution.cpp) |
 | 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.cpp) |
 
@@ -95,6 +97,7 @@
 | 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/118/A%20-%20String%20Task/solution.cpp) |
 | 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.cpp) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
+| 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 
 ---
 
