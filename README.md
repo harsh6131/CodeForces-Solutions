@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 24 | 8 |
+| 25 | 8 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [greedy](#greedy) (3)
 - [implementation](#implementation) (14)
 - [math](#math) (9)
-- [number theory](#number-theory) (1)
+- [number theory](#number-theory) (2)
 - [sortings](#sortings) (1)
 - [strings](#strings) (6)
 
@@ -84,6 +84,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 630A | [Again Twenty Five!](https://codeforces.com/contest/630/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/630/A%20-%20Again%20Twenty%20Five!/solution.java) |
 | 1968A | [Maximize?](https://codeforces.com/contest/1968/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1968/A%20-%20Maximize%3F/solution.cpp) |
 
 ### sortings
