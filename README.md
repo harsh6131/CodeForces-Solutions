@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 32 | 11 |
+| 33 | 11 |
 
 ---
 
@@ -15,8 +15,8 @@
 - [*special](#special) (1)
 - [binary search](#binary-search) (1)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (6)
-- [dp](#dp) (1)
+- [brute force](#brute-force) (7)
+- [dp](#dp) (2)
 - [greedy](#greedy) (4)
 - [implementation](#implementation) (20)
 - [math](#math) (11)
@@ -49,6 +49,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 189A | [Cut Ribbon](https://codeforces.com/contest/189/problem/A) | 1300 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/189/A%20-%20Cut%20Ribbon/solution.java) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/479/A%20-%20Expression/solution.cpp) |
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.java) |
@@ -59,6 +60,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 189A | [Cut Ribbon](https://codeforces.com/contest/189/problem/A) | 1300 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/189/A%20-%20Cut%20Ribbon/solution.java) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.java) |
 
 ### greedy
