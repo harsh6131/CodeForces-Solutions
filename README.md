@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 50 | 12 |
+| 51 | 12 |
 
 ---
 
@@ -19,8 +19,8 @@
 - [dp](#dp) (2)
 - [expression parsing](#expression-parsing) (1)
 - [greedy](#greedy) (5)
-- [implementation](#implementation) (32)
-- [math](#math) (18)
+- [implementation](#implementation) (33)
+- [math](#math) (19)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (3)
 - [strings](#strings) (8)
@@ -102,6 +102,7 @@
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.java) |
 | 581A | [Vasya the Hipster](https://codeforces.com/contest/581/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/581/A%20-%20Vasya%20the%20Hipster/solution.java) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
+| 1426A | [Floor Number](https://codeforces.com/contest/1426/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1426/A%20-%20Floor%20Number/solution.java) |
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.java) |
 | 1560A | [Dislike of Threes](https://codeforces.com/contest/1560/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1560/A%20-%20Dislike%20of%20Threes/solution.java) |
 | 1669A | [Division?](https://codeforces.com/contest/1669/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1669/A%20-%20Division%3F/solution.java) |
@@ -134,6 +135,7 @@
 | 581A | [Vasya the Hipster](https://codeforces.com/contest/581/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/581/A%20-%20Vasya%20the%20Hipster/solution.java) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 1374A | [Required Remainder](https://codeforces.com/contest/1374/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1374/A%20-%20Required%20Remainder/solution.java) |
+| 1426A | [Floor Number](https://codeforces.com/contest/1426/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1426/A%20-%20Floor%20Number/solution.java) |
 | 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1814/A%20-%20Coins/solution.java) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.java) |
 | 1866A | [Ambitious Kid](https://codeforces.com/contest/1866/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1866/A%20-%20Ambitious%20Kid/solution.java) |
