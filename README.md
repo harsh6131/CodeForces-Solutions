@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 57 | 13 |
+| 58 | 13 |
 
 ---
 
@@ -20,10 +20,10 @@
 - [dp](#dp) (2)
 - [expression parsing](#expression-parsing) (1)
 - [greedy](#greedy) (6)
-- [implementation](#implementation) (38)
+- [implementation](#implementation) (39)
 - [math](#math) (21)
 - [number theory](#number-theory) (2)
-- [sortings](#sortings) (4)
+- [sortings](#sortings) (5)
 - [strings](#strings) (9)
 
 ---
@@ -117,6 +117,7 @@
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.java) |
 | 1560A | [Dislike of Threes](https://codeforces.com/contest/1560/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1560/A%20-%20Dislike%20of%20Threes/solution.java) |
 | 1669A | [Division?](https://codeforces.com/contest/1669/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1669/A%20-%20Division%3F/solution.java) |
+| 1669B | [Triple](https://codeforces.com/contest/1669/problem/B) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1669/B%20-%20Triple/solution.java) |
 | 1676A | [Lucky?](https://codeforces.com/contest/1676/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1676/A%20-%20Lucky%3F/solution.java) |
 | 1692A | [Marathon](https://codeforces.com/contest/1692/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1692/A%20-%20Marathon/solution.java) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
@@ -174,6 +175,7 @@
 | 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.cpp) |
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.java) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.java) |
+| 1669B | [Triple](https://codeforces.com/contest/1669/problem/B) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1669/B%20-%20Triple/solution.java) |
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1760/A%20-%20Medium%20Number/solution.java) |
 
 ### strings
