@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 58 | 13 |
+| 59 | 14 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [binary search](#binary-search) (1)
+- [binary search](#binary-search) (2)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (10)
 - [constructive algorithms](#constructive-algorithms) (1)
@@ -21,10 +21,11 @@
 - [expression parsing](#expression-parsing) (1)
 - [greedy](#greedy) (6)
 - [implementation](#implementation) (39)
-- [math](#math) (21)
+- [math](#math) (22)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (5)
 - [strings](#strings) (9)
+- [ternary search](#ternary-search) (1)
 
 ---
 
@@ -39,6 +40,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 492B | [Vanya and Lanterns](https://codeforces.com/contest/492/problem/B) | 1200 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/492/B%20-%20Vanya%20and%20Lanterns/solution.java) |
+| 1996A | [Legs](https://codeforces.com/contest/1996/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1996/A%20-%20Legs/solution.java) |
 
 ### bitmasks
 
@@ -157,6 +159,7 @@
 | 1866A | [Ambitious Kid](https://codeforces.com/contest/1866/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1866/A%20-%20Ambitious%20Kid/solution.java) |
 | 1955A | [Yogurt Sale](https://codeforces.com/contest/1955/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1955/A%20-%20Yogurt%20Sale/solution.cpp) |
 | 1968A | [Maximize?](https://codeforces.com/contest/1968/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1968/A%20-%20Maximize%3F/solution.cpp) |
+| 1996A | [Legs](https://codeforces.com/contest/1996/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1996/A%20-%20Legs/solution.java) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.cpp) |
 | 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/2009/A%20-%20Minimize!/solution.java) |
 | 2044A | [Easy Problem](https://codeforces.com/contest/2044/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/2044/A%20-%20Easy%20Problem/solution.java) |
@@ -191,6 +194,12 @@
 | 1760B | [Atilla's Favorite Problem](https://codeforces.com/contest/1760/problem/B) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1760/B%20-%20Atilla's%20Favorite%20Problem/solution.java) |
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.java) |
 | 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1985/A%20-%20Creating%20Words/solution.java) |
+
+### ternary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1996A | [Legs](https://codeforces.com/contest/1996/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1996/A%20-%20Legs/solution.java) |
 
 ---
 
