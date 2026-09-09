@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 59 | 14 |
+| 63 | 14 |
 
 ---
 
