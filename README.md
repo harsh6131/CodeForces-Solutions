@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 61 | 14 |
+| 62 | 14 |
 
 ---
 
@@ -21,7 +21,7 @@
 - [expression parsing](#expression-parsing) (1)
 - [greedy](#greedy) (6)
 - [implementation](#implementation) (40)
-- [math](#math) (23)
+- [math](#math) (24)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (5)
 - [strings](#strings) (10)
@@ -153,6 +153,7 @@
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.java) |
 | 1283A | [Minutes Before the New Year](https://codeforces.com/contest/1283/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1283/A%20-%20Minutes%20Before%20the%20New%20Year/solution.java) |
+| 1296A | [Array with Odd Sum](https://codeforces.com/contest/1296/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1296/A%20-%20Array%20with%20Odd%20Sum/solution.java) |
 | 1374A | [Required Remainder](https://codeforces.com/contest/1374/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1374/A%20-%20Required%20Remainder/solution.java) |
 | 1374B | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | 900 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1374/B%20-%20Multiply%20by%202%2C%20divide%20by%206/solution.java) |
 | 1426A | [Floor Number](https://codeforces.com/contest/1426/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1426/A%20-%20Floor%20Number/solution.java) |
