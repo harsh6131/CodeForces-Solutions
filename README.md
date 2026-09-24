@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 64 | 14 |
+| 65 | 14 |
 
 ---
 
@@ -19,9 +19,9 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (2)
 - [expression parsing](#expression-parsing) (1)
-- [greedy](#greedy) (6)
+- [greedy](#greedy) (7)
 - [implementation](#implementation) (42)
-- [math](#math) (25)
+- [math](#math) (26)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (5)
 - [strings](#strings) (11)
@@ -93,6 +93,7 @@
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.java) |
 | 1760B | [Atilla's Favorite Problem](https://codeforces.com/contest/1760/problem/B) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1760/B%20-%20Atilla's%20Favorite%20Problem/solution.java) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.java) |
+| 2044C | [Hard Problem](https://codeforces.com/contest/2044/problem/C) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/2044/C%20-%20Hard%20Problem/solution.java) |
 
 ### implementation
 
@@ -170,6 +171,7 @@
 | 2000A | [Primary Task](https://codeforces.com/contest/2000/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/2000/A%20-%20Primary%20Task/solution.java) |
 | 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/2009/A%20-%20Minimize!/solution.java) |
 | 2044A | [Easy Problem](https://codeforces.com/contest/2044/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/2044/A%20-%20Easy%20Problem/solution.java) |
+| 2044C | [Hard Problem](https://codeforces.com/contest/2044/problem/C) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/2044/C%20-%20Hard%20Problem/solution.java) |
 
 ### number theory
 
