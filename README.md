@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 71 | 14 |
+| 72 | 14 |
 
 ---
 
@@ -21,7 +21,7 @@
 - [expression parsing](#expression-parsing) (1)
 - [greedy](#greedy) (12)
 - [implementation](#implementation) (44)
-- [math](#math) (30)
+- [math](#math) (31)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (6)
 - [strings](#strings) (13)
@@ -164,6 +164,7 @@
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.java) |
 | 1283A | [Minutes Before the New Year](https://codeforces.com/contest/1283/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1283/A%20-%20Minutes%20Before%20the%20New%20Year/solution.java) |
+| 1294A | [Collecting Coins](https://codeforces.com/contest/1294/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1294/A%20-%20Collecting%20Coins/solution.java) |
 | 1296A | [Array with Odd Sum](https://codeforces.com/contest/1296/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1296/A%20-%20Array%20with%20Odd%20Sum/solution.java) |
 | 1311A | [Add Odd or Subtract Even](https://codeforces.com/contest/1311/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1311/A%20-%20Add%20Odd%20or%20Subtract%20Even/solution.java) |
 | 1374A | [Required Remainder](https://codeforces.com/contest/1374/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1374/A%20-%20Required%20Remainder/solution.java) |
