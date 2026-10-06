@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 73 | 14 |
+| 75 | 15 |
 
 ---
 
@@ -19,12 +19,13 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (2)
 - [expression parsing](#expression-parsing) (1)
+- [games](#games) (1)
 - [greedy](#greedy) (12)
 - [implementation](#implementation) (44)
 - [math](#math) (32)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (6)
-- [strings](#strings) (13)
+- [strings](#strings) (14)
 - [ternary search](#ternary-search) (1)
 
 ---
@@ -83,6 +84,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 32B | [Borze](https://codeforces.com/contest/32/problem/B) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/32/B%20-%20Borze/solution.java) |
+
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1373B | [01 Game](https://codeforces.com/contest/1373/problem/B) | 900 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1373/B%20-%2001%20Game/solution.java) |
 
 ### greedy
 
@@ -222,6 +229,7 @@
 | 1927A | [Make it White](https://codeforces.com/contest/1927/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1927/A%20-%20Make%20it%20White/solution.java) |
 | 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1985/A%20-%20Creating%20Words/solution.java) |
 | 2000A | [Primary Task](https://codeforces.com/contest/2000/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/2000/A%20-%20Primary%20Task/solution.java) |
+| 2065B | [Skibidus and Ohio](https://codeforces.com/contest/2065/problem/B) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/2065/B%20-%20Skibidus%20and%20Ohio/solution.java) |
 
 ### ternary search
 
