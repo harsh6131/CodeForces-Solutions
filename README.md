@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 78 | 15 |
+| 79 | 15 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [*special](#special) (1)
 - [binary search](#binary-search) (2)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (14)
+- [brute force](#brute-force) (15)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (2)
 - [expression parsing](#expression-parsing) (1)
@@ -55,6 +55,7 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 189A | [Cut Ribbon](https://codeforces.com/contest/189/problem/A) | 1300 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/189/A%20-%20Cut%20Ribbon/solution.java) |
+| 214A | [System of Equations](https://codeforces.com/contest/214/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/214/A%20-%20System%20of%20Equations/solution.java) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/479/A%20-%20Expression/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
