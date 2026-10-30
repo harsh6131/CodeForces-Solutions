@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 79 | 15 |
+| 80 | 15 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [*special](#special) (1)
 - [binary search](#binary-search) (2)
-- [bitmasks](#bitmasks) (1)
+- [bitmasks](#bitmasks) (2)
 - [brute force](#brute-force) (15)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (2)
@@ -47,6 +47,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1527A | [And Then There Were K](https://codeforces.com/contest/1527/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1527/A%20-%20And%20Then%20There%20Were%20K/solution.java) |
 | 1915A | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | 800 | [Java 21](https://github.com/harsh6131/CodeForces-Solutions/blob/HEAD/1915/A%20-%20Odd%20One%20Out/solution.java) |
 
 ### brute force
